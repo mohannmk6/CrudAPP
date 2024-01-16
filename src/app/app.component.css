@@ -1,0 +1,11 @@
+h2{
+    text-align: center;
+}
+nav{
+    background-color: rgb(201, 158, 242);
+    color: rgb(1, 39, 41);
+}
+
+.inputshow {
+    background-color: lightgray;
+}
